@@ -1,0 +1,46 @@
+#michigame {
+	margin: 0 auto;
+	margin-top: 100px;
+	text-align: center;
+}
+
+#michigame .btn {
+	background-color: white;
+	border: 2px solid #E10071;
+	width: 95%;
+	height: 100px;
+	margin-bottom: 10px;
+}
+
+#michigame .btn:hover {
+	background-color: #FFC90E;
+}
+
+#newgame {
+	text-align: center;
+}
+
+#newgame .btn {
+	background-color: #F4C610;
+	border: 2px solid #F4C610;
+	color: black;
+	padding: 20px;
+}
+#newgame .btn:hover {
+	background-color: rgba(244,198,16,0.2);
+	border: 2px solid #F4C610;
+}
+
+.textred {
+	color: red;
+	font-size: 2em;
+}
+
+.row, .col-sm-4 {
+	margin: 0;
+	padding: 0;
+}
+.container {
+	width: 300px;
+	height: 300px;
+}
