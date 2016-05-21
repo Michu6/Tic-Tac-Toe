@@ -33,6 +33,7 @@
 
 .textred {
 	color: red;
+  pointer-events: none;
 	font-size: 2em;
 }
 
